@@ -41,9 +41,9 @@ To get started developing right away:
     └── index.js # You should not need to modify this file. It is used for DOM rendering only.
 ```
 
-## UseFul Resoursec
-*https://reactresources.com/
-*https://reactjs.org/community/external-resources.html
+## Useful Resources
+* https://reactresources.com/
+* https://reactjs.org/community/external-resources.html
 
 
 ## Important
